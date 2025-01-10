@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\znaor\\OneDrive\\Desktop\\ConfOrg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F27CCA7C-6B5F-40D8-AD51-149B31D0B43F}|WebAPI\\WebAPI.csproj|c:\\users\\znaor\\onedrive\\desktop\\conforg\\webapi\\controllers\\camundaschedulingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27CCA7C-6B5F-40D8-AD51-149B31D0B43F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\camundaschedulingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27CCA7C-6B5F-40D8-AD51-149B31D0B43F}|WebAPI\\WebAPI.csproj|c:\\users\\znaor\\onedrive\\desktop\\conforg\\webapi\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27CCA7C-6B5F-40D8-AD51-149B31D0B43F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 196,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\znaor\\OneDrive\\Desktop\\ConfOrg\\WebAPI\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\znaor\\OneDrive\\Desktop\\ConfOrg\\WebAPI\\Services\\EmailService.cs",
+              "RelativeToolTip": "WebAPI\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwCMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:47:24.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CamundaSchedulingController.cs",
+              "DocumentMoniker": "C:\\Users\\znaor\\OneDrive\\Desktop\\ConfOrg\\WebAPI\\Controllers\\CamundaSchedulingController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CamundaSchedulingController.cs",
+              "ToolTip": "C:\\Users\\znaor\\OneDrive\\Desktop\\ConfOrg\\WebAPI\\Controllers\\CamundaSchedulingController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\CamundaSchedulingController.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAUwLAAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T02:19:17.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 291,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
